@@ -6,4 +6,4 @@ https://github.com/Pat-Carter/stream2chromecast</p>
 <p>In order to work, for the moment, stream2chromecast folder must be in /opt, of course you can change
 the script as you prefer.</p>
 <br />
-![alt tag](screenshot.png "stream2chromecast-ui")
+![alt text](screenshot.png "stream2chromecast-ui")
