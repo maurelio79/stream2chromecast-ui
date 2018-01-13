@@ -7,3 +7,5 @@ https://github.com/Pat-Carter/stream2chromecast</p>
 the script as you prefer.</p>
 <br />
 <img src="https://raw.githubusercontent.com/maurelio79/stream2chromecast-ui/master/screenshot.png" />
+<br />
+<img src="https://raw.githubusercontent.com/maurelio79/stream2chromecast-ui/master/screenshot2.png" />
